@@ -27,6 +27,6 @@ The comments have been manually annotated according to the presence or absence o
 This dataset supports experiments in **machine learning**, **NLP**, and **automatic bias detection** in Spanish-language educational contexts.
 
 
-##Citation
+## Citation
 
 Segura-Navarrete, A., Martinez-Araneda, C., Martínez Labrín, S., Gomez-Meneses, P., Vidal-Castro, C., Espinoza Silva, S., & Gutierrez-Bunster, T. (2025). gender-bias dataset (1.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.17665445
