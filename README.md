@@ -1,4 +1,4 @@
-# Dataset: Detection of Gender-Based Violence in Digital Environments
+# Dataset: gender-bias
 
 This dataset was created for the study **“Detection of gender-based violence in digital environments using AI models.”**  
 It contains comments from a teaching evaluation survey, each annotated as **gender-bias** or **not-gender-bias**.
